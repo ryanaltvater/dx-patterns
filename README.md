@@ -1,2 +1,2 @@
 # dx-patterns
-This repo is for context testing.
+This repo is for concept testing.
